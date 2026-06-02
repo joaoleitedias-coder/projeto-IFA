@@ -1,3 +1,28 @@
+/* Zerando margens, preenchimentos e bordas */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+
+/* Removendo estilos de listas */
+ol, ul {
+    list-style: none;
+}
+
+/* Removendo itálico e negrito padrão de tags específicas */
+em, h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* Ajustando exibição de imagens e mídias */
+img, video, canvas, iframe {
+    display: block;
+    max-width: 100%;
+}
+
 header {
     background-color: black;
 
