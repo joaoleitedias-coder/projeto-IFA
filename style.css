@@ -27,3 +27,18 @@ header {
     background-color: black;
     color: white;
 }
+
+.projeto_1 {
+  padding: 200px 300px;
+  justify-content: center;
+  display: inline-grid;
+}
+
+.Bengala {
+    block-size: 150%;
+
+}
+
+.images_title {
+    text-align: center;
+}
