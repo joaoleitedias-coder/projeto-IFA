@@ -29,16 +29,22 @@ header {
 }
 
 .projeto_1 {
-  padding: 200px 300px;
+  padding: 275px 500px;
   justify-content: center;
-  display: inline-grid;
+  display: inline-block;
 }
 
 .Bengala {
-    block-size: 50%;
+    block-size: 150%;
 
 }
 
 .images_title {
     text-align: center;
+}
+
+.componentes {
+    padding: 200px 0px;
+    justify-content: baseline;
+    display: inline-flex;
 }
