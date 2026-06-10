@@ -29,7 +29,7 @@ header {
 }
 
 .projeto_1 {
-  padding: 275px 275px;
+  padding: 275px 400px;
   justify-content: center;
   display: inline-grid;
 }
@@ -44,20 +44,47 @@ header {
 }
 
 .componentes {
-    padding: 0px -100px;
+    padding: 0px 80px;
     justify-content: center;
     display: inline-grid;
+    line-height: 2.0;
 }
 
 .itens {
-    padding: 0px 200px;
+    padding: 0px 100px;
     justify-content: baseline;
     display: inline-flex;
     text-align: center;
 }
 
 .objetivos {
-    padding: 275px 200px;
-    justify-content: baseline;
+    padding: 0px 400px;
+    justify-content: center;
     display: inline-grid;
+    line-height: 2.0;
+}
+
+.itens_obj {
+    padding: 20px 400px;
+    justify-content: baseline;
+    display: inline-flex;
+    text-align: center;
+}
+
+.images_title {
+    line-height: 2.0;
+}
+
+.img_bengala {
+    padding: 20px 400px;
+    justify-content: center;
+    display: inline-grid;
+    line-height: 2.0;
+}
+
+.img_bengala1 {
+    padding: 20px 400px;
+    justify-content: baseline;
+    display: inline-flex;
+    text-align: center;
 }
