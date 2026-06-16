@@ -79,16 +79,12 @@ header {
     justify-content: center;
     display: inline-grid;
     line-height: 2.0;
-}
-
-.img_bengala1 {
-    padding: 20px 400px;
-    justify-content: baseline;
-    display: inline-flex;
     text-align: center;
 }
 
 .img_bengala1 {
-    height: 100%;
-    width:70%;
+    padding: 20px 250px;
+    justify-content: baseline;
+    display: inline-flex;
+    block-size: 100%;
 }
